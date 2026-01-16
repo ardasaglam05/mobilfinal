@@ -72,7 +72,7 @@ lib/
 - ✅ ContactsService - Yakınlar veri yönetimi
 
 #### 5. Offline Çalışma
-- ✅ shared_preferences entegrasyonu
+- ✅ SQLite entegrasyonu
 - ✅ İnternet gerektirmeyen mimari
 - ✅ Veri kalıcılığı
 - ✅ Uygulama kapansa bile veriler korunur
@@ -84,7 +84,7 @@ lib/
 ### Kullanılan Teknolojiler
 - **Flutter:** 3.35.5
 - **Dart:** 3.9.2
-- **shared_preferences:** ^2.2.2 (offline veri)
+- **sqflite:** ^2.3.0 (offline veri)
 - **intl:** ^0.19.0 (tarih formatı)
 
 ### Mimari
@@ -273,7 +273,7 @@ flutter build apk --release
 
 ### Teknik Başarılar
 - ✅ Offline-first mimari başarıyla uygulandı
-- ✅ shared_preferences ile veri kalıcılığı sağlandı
+- ✅ SQLite ile veri kalıcılığı sağlandı
 - ✅ Clean code prensipleri uygulandı
 - ✅ Service pattern kullanıldı
 - ✅ Material Design 3 entegre edildi
