@@ -1,0 +1,47 @@
+﻿Analyzing acil_durum_asistani...                                
+
+   info - The imported package 'sqflite' isn't a dependency of the importing package - lib\database\database_helper.dart:3:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:sqflite/sqflite.dart' - lib\database\database_helper.dart:3:8 - uri_does_not_exist
+   info - The imported package 'path' isn't a dependency of the importing package - lib\database\database_helper.dart:4:8 - depend_on_referenced_packages
+  error - Undefined class 'Database' - lib\database\database_helper.dart:10:10 - undefined_class
+  error - The name 'Database' isn't a type, so it can't be used as a type argument - lib\database\database_helper.dart:14:10 - non_type_as_type_argument
+  error - The name 'Database' isn't a type, so it can't be used as a type argument - lib\database\database_helper.dart:21:10 - non_type_as_type_argument
+  error - The method 'getDatabasesPath' isn't defined for the type 'DatabaseHelper' - lib\database\database_helper.dart:23:28 - undefined_method
+  error - The method 'openDatabase' isn't defined for the type 'DatabaseHelper' - lib\database\database_helper.dart:26:20 - undefined_method
+  error - The method 'openDatabase' isn't defined for the type 'DatabaseHelper' - lib\database\database_helper.dart:34:20 - undefined_method
+  error - Undefined name 'inMemoryDatabasePath' - lib\database\database_helper.dart:35:9 - undefined_identifier
+  error - Undefined class 'Database' - lib\database\database_helper.dart:43:26 - undefined_class
+  error - Undefined name 'Sqflite' - lib\database\database_helper.dart:208:27 - undefined_identifier
+  error - Undefined name 'Sqflite' - lib\database\database_helper.dart:212:29 - undefined_identifier
+  error - Undefined name 'Sqflite' - lib\database\database_helper.dart:216:30 - undefined_identifier
+   info - The imported package 'geolocator' isn't a dependency of the importing package - lib\screens\home_screen.dart:2:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:geolocator/geolocator.dart' - lib\screens\home_screen.dart:2:8 - uri_does_not_exist
+  error - Undefined name 'Geolocator' - lib\screens\home_screen.dart:136:35 - undefined_identifier
+  error - Undefined class 'LocationPermission' - lib\screens\home_screen.dart:143:7 - undefined_class
+  error - Undefined name 'Geolocator' - lib\screens\home_screen.dart:143:45 - undefined_identifier
+  error - Undefined name 'LocationPermission' - lib\screens\home_screen.dart:144:25 - undefined_identifier
+  error - Undefined name 'Geolocator' - lib\screens\home_screen.dart:145:28 - undefined_identifier
+  error - Undefined name 'LocationPermission' - lib\screens\home_screen.dart:146:27 - undefined_identifier
+  error - Undefined name 'LocationPermission' - lib\screens\home_screen.dart:152:25 - undefined_identifier
+  error - Undefined name 'Geolocator' - lib\screens\home_screen.dart:158:30 - undefined_identifier
+  error - Undefined name 'LocationAccuracy' - lib\screens\home_screen.dart:159:26 - undefined_identifier
+   info - The imported package 'url_launcher' isn't a dependency of the importing package - lib\screens\safe_mode_screen.dart:5:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:url_launcher/url_launcher.dart' - lib\screens\safe_mode_screen.dart:5:8 - uri_does_not_exist
+  error - The method 'canLaunchUrl' isn't defined for the type '_SafeModeScreenState' - lib\screens\safe_mode_screen.dart:191:17 - undefined_method
+  error - The method 'launchUrl' isn't defined for the type '_SafeModeScreenState' - lib\screens\safe_mode_screen.dart:192:15 - undefined_method
+   info - The imported package 'url_launcher' isn't a dependency of the importing package - lib\screens\safe_zones_screen.dart:2:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:url_launcher/url_launcher.dart' - lib\screens\safe_zones_screen.dart:2:8 - uri_does_not_exist
+  error - The method 'canLaunchUrl' isn't defined for the type 'SafeZonesScreen' - lib\screens\safe_zones_screen.dart:557:17 - undefined_method
+  error - The method 'launchUrl' isn't defined for the type 'SafeZonesScreen' - lib\screens\safe_zones_screen.dart:558:15 - undefined_method
+  error - Undefined name 'LaunchMode' - lib\screens\safe_zones_screen.dart:558:40 - undefined_identifier
+   info - The imported package 'http' isn't a dependency of the importing package - lib\services\earthquake_service.dart:2:8 - depend_on_referenced_packages
+   info - The imported package 'intl' isn't a dependency of the importing package - lib\services\message_service.dart:1:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:intl/intl.dart' - lib\services\message_service.dart:1:8 - uri_does_not_exist
+  error - The method 'DateFormat' isn't defined for the type 'MessageService' - lib\services\message_service.dart:14:24 - undefined_method
+  error - The method 'DateFormat' isn't defined for the type 'MessageService' - lib\services\message_service.dart:15:24 - undefined_method
+  error - The method 'DateFormat' isn't defined for the type 'MessageService' - lib\services\message_service.dart:57:24 - undefined_method
+  error - The method 'DateFormat' isn't defined for the type 'MessageService' - lib\services\message_service.dart:58:24 - undefined_method
+  error - The method 'DateFormat' isn't defined for the type 'MessageService' - lib\services\message_service.dart:97:20 - undefined_method
+   info - The imported package 'sqflite' isn't a dependency of the importing package - test\widget_test.dart:4:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:sqflite/sqflite.dart' - test\widget_test.dart:4:8 - uri_does_not_exist
+
