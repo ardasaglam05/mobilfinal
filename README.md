@@ -5,12 +5,12 @@ YOUTUBE VİDEO LİNKİ : https://youtu.be/t3U95yGzc5U
 [README.md](https://github.com/user-attachments/files/24675954/README.md)
  Acil Durum Asistanı 
 
-Flutter ile geliştirilmiş, **offline çalışabilen** acil durum yönetim uygulaması.
+Flutter ile geliştirilmiş, acil durum yönetim uygulaması.
 
   Özellikler
 
-### 🏠 Ana Özellikler
-1. **🟢 Güvendeyim Butonu**
+ Ana Özellikler
+1.**🟢 Güvendeyim Butonu**
    - Otomatik GPS konum paylaşımı (Google Maps linki)
    - Batarya durumu paylaşımı
    - SMS ile yakınlara otomatik bildirim
